@@ -1,6 +1,6 @@
 # Hi, I'm Oliver
 
-Welcome to my SOC Analyst portfolio! This repository documents my hands-on cybersecurity projects replicating real-life SOC Analyst work.
+Welcome to my Cybersecurity Analyst portfolio! This repository documents my hands-on cybersecurity projects replicating real-life work.
 
 ---
 
@@ -13,7 +13,7 @@ Welcome to my SOC Analyst portfolio! This repository documents my hands-on cyber
 ---
 
 ## Connect With Me 
-* **Role:** Aspiring SOC Analyst
+* **Role:** Aspiring Cybersecurity Analyst
 * **Skills:** Log Analysis, Alert Triage, Incident Response, Threat Hunting, Detection Engineering
 * **Tools:** SIEM 
 * **Certifications:** CompTIA Network+, CompTIA Security+
