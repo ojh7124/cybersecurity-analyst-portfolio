@@ -15,7 +15,7 @@ Welcome to my Cybersecurity Analyst portfolio! This repository documents my hand
 ---
 
 ## Connect With Me 
-* **Role:** Aspiring Cybersecurity Analyst
+* **Role:** Cybersecurity Analyst
 * **Skills:** Log Analysis, Alert Triage, Incident Response, Threat Hunting, Detection Engineering
 * **Tools:** SIEM, EDR, SOAR
 * **Certifications:** CompTIA Network+, CompTIA Security+
