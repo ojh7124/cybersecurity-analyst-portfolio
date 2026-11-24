@@ -17,7 +17,6 @@ Welcome to my Cybersecurity Analyst portfolio! This repository documents my hand
 ## Connect With Me 
 * **Role:** Cybersecurity Analyst
 * **Skills:** Log Analysis, Alert Triage, Incident Response, Threat Hunting, Detection Engineering
-* **Tools:** SIEM, EDR, SOAR
 * **Certifications:** CompTIA Network+, CompTIA Security+
 * **LinkedIn:** [View My Profile](https://www.linkedin.com/in/oliver-hughes-cyber)
 * **Email:** ojh7124@gmail.com
