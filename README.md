@@ -9,7 +9,7 @@ Welcome to my Cybersecurity Analyst portfolio! This repository documents my hand
   * Conducted incident investigations using Splunk demonstrating threat hunting, log analysis, artifact collection, and incident containment.
 * **[2. Splunk Detection Rules](./splunk-detection-rules/)**
   * Engineered, deployed, configured, and validated custom detection rules in Splunk.
-* **3. Simulated Ticket Triage and Investigation**
+* **[3. Alert Triage and Investigation](./alert-triage-and-investigation/)**
   * Triaged and investigated security alerts using Jira and Microsoft Sentinel to monitor an Active Directory environment. (Coming Soon).
 
 ---
