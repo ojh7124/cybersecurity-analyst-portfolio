@@ -46,11 +46,3 @@ index=* host="DESKTOP-TBSUDKQ" EventCode=4688 ("reg save" OR "HKLM\\SAM" OR "HKL
 * **Framework Mapping:**
   * MITRE ATT&CK T1003.002 (OS Credential Dumping: Security Account Manager)
 * **Summary:** Confirmed attempted credential access via remote WMI execution. At `22:57:56`, the adversary attempted to execute `reg save HKLM\SAM` using the compromised `HelpDesk_User` account. However, because the execution token lacked administrative elevation (`TokenElevationTypeDefault (1)`), host-based access controls successfully prevented the registry dump, resulting in an `Access is denied` error.
-
----
-
-## 5. Containment
-
-* **Credential Invalidation:** Revoke all active tokens, Kerberos tickets, and cached credentials associated with `HelpDesk_User` across the environment.
-
-<img width="1006" height="272" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/e4501778-81de-49f9-bab0-ff9e3f0657dd" />
