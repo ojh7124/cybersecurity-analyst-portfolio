@@ -1,7 +1,7 @@
 # Summary 
 
-* This directory contains individual alert triage and investigations of tickets in Jira, using Microsoft Sentinel.
-* Each markdown file is an independent ticket demonstrating...
+* This directory contains individual...
+* Each markdown file acts as an independent...
 
 ---
 
