@@ -6,7 +6,7 @@ Welcome to my Cybersecurity Analyst portfolio! This repository documents my hand
 
 ## Portfolio
 * **[1. Splunk Endpoint Investigations](./splunk-endpoint-investigations/)**
-  * Conducted incident investigations using Splunk demonstrating threat hunting, log analysis, artifact collection.
+  * Conducted incident investigations using Splunk demonstrating threat hunting, log analysis, and artifact collection.
 * **[2. Splunk Detection Rules](./splunk-detection-rules/)**
   * Engineered, deployed, configured, and validated custom detection rules in Splunk.
 * **[3. Alert Triage and Investigation](./alert-triage-and-investigation/)**
