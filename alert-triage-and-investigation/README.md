@@ -1,5 +1,13 @@
+# Summary 
 
-## Lab Architecture 
+* This directory contains individual alert triage and investigations of tickets in Jira, using Microsoft Sentinel.
+* Each markdown file acts as an independent case study demonstrating...
+
+---
+
+## Lab Architecture & Environment
+
+```text
 
 +---------------------------------------------------------------------------+
 |                     Virtual Lab Network (Host Laptop)                     |
