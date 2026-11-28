@@ -43,11 +43,3 @@ index=* (EventCode=1102 OR (EventCode=4688 AND (Process_Command_Line="*wevtutil*
 * **Severity:** High
 * **Framework Mapping:** MITRE ATT&CK T1070.001 (Indicator Removal: Clear Windows Event Logs)
 * **Summary:** Confirmed defence evasion activity. The adversary executed `wevtutil cl Security` via `cmd.exe` at `19:53:46` to wipe the Windows Security event log channel. The activity was confirmed by Event Code 1102 and evidence of the attacker saving command output to `\Windows\Temp\`.
-
----
-
-## 5. Containment
-
-* **Artifact Cleanup:** Permanently delete the temporary file created by the attacker to capture command output and error messages during log erasure.
-
-<img width="1006" height="102" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/95b8db67-cc9f-4afa-b41c-7df36f6dfc45" />
