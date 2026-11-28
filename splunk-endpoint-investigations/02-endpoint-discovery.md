@@ -36,16 +36,3 @@ index=* (EventCode=4688 OR EventCode=1)  Creator_Process_Name="C:\\Windows\\Syst
 * **Severity:** Medium 
 * **Framework Mapping:** MITRE ATT&CK T1033 (System Owner/User Discovery)
 * **Summary:** Confirmed adversary discovery activity. The attacker spawned `whoami /all` via `cmd.exe` at `17:59:49` to enumerate account privileges, group memberships, and SIDs on the endpoint.
-
----
-
-## 5. Containment
-
-* **Terminate Active Reconnaissance Shells:** Kill any active `cmd.exe` processes (such as those running `whoami /all`) on the endpoint.
-
-<img width="1006" height="124" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/3746ff5e-a694-4a48-b1c6-a843be4880ea" />
-
-* **Isolate Host from Network:** Block all incoming and outgoing network traffic at the local OS firewall level to stop lateral movement.
-
-<img width="1006" height="522" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/720db11d-38a8-4052-85fe-bb3cd21f794a" />
-<img width="1006" height="524" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/93a40905-6e18-43e1-9397-a918be75165d" />
