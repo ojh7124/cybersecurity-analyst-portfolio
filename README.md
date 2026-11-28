@@ -10,7 +10,7 @@ Welcome to my Cybersecurity Analyst portfolio! This repository documents my hand
 * **[2. Splunk Detection Rules](./splunk-detection-rules/)**
   * Engineered, deployed, configured, and validated custom detection rules in Splunk.
 * **[3. Alert Triage and Investigation](./alert-triage-and-investigation/)**
-  * Triaged and investigated security alerts using Jira and Microsoft Sentinel.
+  * Triaged, investigated, and documented security alerts using Microsoft Sentinel and Jira.
 
 ---
 
